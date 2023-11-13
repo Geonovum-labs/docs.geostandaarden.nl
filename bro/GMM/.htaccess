@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(.*)$ /bro/vv-im-GMM-20230504/$1 [NC,L]
+
